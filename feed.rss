@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>Dunwich Builders</title>
+		<link>http://dunwichbuilders.github.io/</link>
+		<description>DUNWICH BUILDERS</description>
+		<copyright>2017</copyright>
+		<pubDate>Tue, 24 Oct 2017 15:14:51 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Oct 2017 15:14:51 GMT</lastBuildDate>
+		<item>
+			<title>Dunwich Builders Website Launched</title>
+			<link>http://dunwichbuilders.github.io/posts/new-website-oct-2017</link>
+			<description>&lt;p&gt;Dunwich Builders now has a website!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.github.io/posts/new-website-oct-2017</guid>
+			<pubDate>Tue, 24 Oct 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Dunwich Builders now has a website!&lt;/p&gt;
+&lt;p&gt;Currently the site offers links to mods the team has published, the team's presence on social networks and information about the team members. Future plans include publishing open source code and alternative methods to install mods for PC users.&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Remote Cabin v17</title>
+			<link>http://dunwichbuilders.github.io/posts/remote-cabin-017</link>
+			<description>&lt;p&gt;Remote Cabin v17 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.github.io/posts/remote-cabin-017</guid>
+			<pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Remote Cabin v17 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added CloudStorage for Mods, Ammo, Melee Weapons and Grenades in Main Cabin and Garage&lt;/li&gt;
+&lt;li&gt;Added CloudStorage for some Armors&lt;/li&gt;
+&lt;li&gt;Added CloudStorage activators for Workshop Trunk and Scrap Shelf in Garage&lt;/li&gt;
+&lt;li&gt;Added Syringer, RadAway and Stealth Boy to Chem CloudStorage&lt;/li&gt;
+&lt;li&gt;Added Mirelurk Eggs, Moldy Food, Perfectly Preserved Pie and Deezer's Lemonade to Cryo Cooler food list&lt;/li&gt;
+&lt;li&gt;Set main cabin Terminal to &amp;quot;Ignored By Sandbox&amp;quot; since it's slightly off-height&lt;/li&gt;
+&lt;li&gt;Added Dog Mattresses, Dog Chair, Couch and Stool, Guard Chairs, Partying and Partied Out Mats, Dog and Cat Rugs and Junk and Booze Shop Chairs as craftable objects&lt;/li&gt;
+&lt;li&gt;Reordered some of the Remote Cabin items in the build menu&lt;/li&gt;
+&lt;li&gt;Converted more static items to scrap&lt;/li&gt;
+&lt;li&gt;Cleaned up navmesh a bit around central rocks&lt;/li&gt;
+&lt;li&gt;Relinked and finalized navmesh for entire settlement&lt;/li&gt;
+&lt;li&gt;Removed Fernweed&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Dunwich Farms v1</title>
+			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-001</link>
+			<description>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.github.io/posts/dunwich-farms-001</guid>
+			<pubDate>Mon, 16 Oct 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First version&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>Oct 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First version&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://dunwichbuilders.github.io/" />
+	<id>http://dunwichbuilders.github.io/</id>
+	<title>Dunwich Builders</title>
+	<rights>2017</rights>
+	<updated>2017-10-24T15:14:51Z</updated>
+	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
+	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/new-website-oct-2017" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/new-website-oct-2017</id>
+		<title>Dunwich Builders Website Launched</title>
+		<updated>2017-10-24T00:00:00Z</updated>
+		<content>&lt;p&gt;Dunwich Builders now has a website!&lt;/p&gt;
+&lt;p&gt;Currently the site offers links to mods the team has published, the team's presence on social networks and information about the team members. Future plans include publishing open source code and alternative methods to install mods for PC users.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Dunwich Builders now has a website!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-017" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/remote-cabin-017</id>
+		<title>Remote Cabin v17</title>
+		<updated>2017-10-20T00:00:00Z</updated>
+		<content>&lt;p&gt;Remote Cabin v17 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added CloudStorage for Mods, Ammo, Melee Weapons and Grenades in Main Cabin and Garage&lt;/li&gt;
+&lt;li&gt;Added CloudStorage for some Armors&lt;/li&gt;
+&lt;li&gt;Added CloudStorage activators for Workshop Trunk and Scrap Shelf in Garage&lt;/li&gt;
+&lt;li&gt;Added Syringer, RadAway and Stealth Boy to Chem CloudStorage&lt;/li&gt;
+&lt;li&gt;Added Mirelurk Eggs, Moldy Food, Perfectly Preserved Pie and Deezer's Lemonade to Cryo Cooler food list&lt;/li&gt;
+&lt;li&gt;Set main cabin Terminal to &amp;quot;Ignored By Sandbox&amp;quot; since it's slightly off-height&lt;/li&gt;
+&lt;li&gt;Added Dog Mattresses, Dog Chair, Couch and Stool, Guard Chairs, Partying and Partied Out Mats, Dog and Cat Rugs and Junk and Booze Shop Chairs as craftable objects&lt;/li&gt;
+&lt;li&gt;Reordered some of the Remote Cabin items in the build menu&lt;/li&gt;
+&lt;li&gt;Converted more static items to scrap&lt;/li&gt;
+&lt;li&gt;Cleaned up navmesh a bit around central rocks&lt;/li&gt;
+&lt;li&gt;Relinked and finalized navmesh for entire settlement&lt;/li&gt;
+&lt;li&gt;Removed Fernweed&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Remote Cabin v17 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-001" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-001</id>
+		<title>Dunwich Farms v1</title>
+		<updated>2017-10-16T00:00:00Z</updated>
+		<content>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First version&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
+</feed>8911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First version&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
+</feed>
