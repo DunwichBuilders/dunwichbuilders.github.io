@@ -4,9 +4,34 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2017</rights>
-	<updated>2017-10-24T16:10:36Z</updated>
+	<updated>2017-11-10T07:57:44Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-018" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/remote-cabin-018</id>
+		<title>Remote Cabin v18</title>
+		<updated>2017-11-09T00:00:00Z</updated>
+		<content>&lt;p&gt;Remote Cabin v18 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adjusted interaction point for Dog Bed Single&lt;/li&gt;
+&lt;li&gt;Cleaned up stacking and other keywords for current Booze&lt;/li&gt;
+&lt;li&gt;Added Coffee effect for Main Cabin desk activator&lt;/li&gt;
+&lt;li&gt;Added more keywords to Armor Storage&lt;/li&gt;
+&lt;li&gt;Added Poisoned Merlot&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the Coffee Activator was applying the Smoking Effect&lt;/li&gt;
+&lt;li&gt;Added Bloody Mary&lt;/li&gt;
+&lt;li&gt;Added doors to power armor garage&lt;/li&gt;
+&lt;li&gt;Replaced cabin mats with dog and cat mats&lt;/li&gt;
+&lt;li&gt;Plugged a few holes in navmesh&lt;/li&gt;
+&lt;li&gt;Relinked and finalized navmesh in all 9 cells&lt;/li&gt;
+&lt;li&gt;Added drinking fountain spell to garage water cooler&lt;/li&gt;
+&lt;li&gt;Removed QAScrap container and Settler Spawn button&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Remote Cabin v18 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/new-website-oct-2017" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
