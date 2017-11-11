@@ -5,8 +5,8 @@
 		<link>http://dunwichbuilders.github.io/</link>
 		<description>DUNWICH BUILDERS</description>
 		<copyright>2017</copyright>
-		<pubDate>Fri, 10 Nov 2017 07:57:44 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Nov 2017 07:57:44 GMT</lastBuildDate>
+		<pubDate>Sat, 11 Nov 2017 02:02:26 GMT</pubDate>
+		<lastBuildDate>Sat, 11 Nov 2017 02:02:26 GMT</lastBuildDate>
 		<item>
 			<title>Remote Cabin v18</title>
 			<link>http://dunwichbuilders.github.io/posts/remote-cabin-018</link>
@@ -29,6 +29,25 @@
 &lt;li&gt;Relinked and finalized navmesh in all 9 cells&lt;/li&gt;
 &lt;li&gt;Added drinking fountain spell to garage water cooler&lt;/li&gt;
 &lt;li&gt;Removed QAScrap container and Settler Spawn button&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Remote Cabin v19</title>
+			<link>http://dunwichbuilders.github.io/posts/remote-cabin-019</link>
+			<description>&lt;p&gt;Remote Cabin v19 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.github.io/posts/remote-cabin-019</guid>
+			<pubDate>Thu, 09 Nov 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Remote Cabin v19 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Pepper Mill issue with Bloody Mary&lt;/li&gt;
+&lt;li&gt;Shortened description text for Workbench Clutter&lt;/li&gt;
+&lt;li&gt;Adjusted lightboxes in settler cabin&lt;/li&gt;
+&lt;li&gt;Adjusted dog interaction marker on Dog Mattress Single&lt;/li&gt;
+&lt;li&gt;Lowered floating tree next to settler cabin&lt;/li&gt;
+&lt;li&gt;Added &amp;quot;Furniture Discussion&amp;quot; to terminal&lt;/li&gt;
+&lt;li&gt;Flattened terrain slightly outside power armor garage doors&lt;/li&gt;
 &lt;/ul&gt;
 </content:encoded>
 		</item>

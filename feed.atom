@@ -4,7 +4,7 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2017</rights>
-	<updated>2017-11-10T07:57:44Z</updated>
+	<updated>2017-11-11T02:02:26Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
 	<entry>
@@ -31,6 +31,25 @@
 &lt;/ul&gt;
 </content>
 		<summary>&lt;p&gt;Remote Cabin v18 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-019" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/remote-cabin-019</id>
+		<title>Remote Cabin v19</title>
+		<updated>2017-11-09T00:00:00Z</updated>
+		<content>&lt;p&gt;Remote Cabin v19 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Pepper Mill issue with Bloody Mary&lt;/li&gt;
+&lt;li&gt;Shortened description text for Workbench Clutter&lt;/li&gt;
+&lt;li&gt;Adjusted lightboxes in settler cabin&lt;/li&gt;
+&lt;li&gt;Adjusted dog interaction marker on Dog Mattress Single&lt;/li&gt;
+&lt;li&gt;Lowered floating tree next to settler cabin&lt;/li&gt;
+&lt;li&gt;Added &amp;quot;Furniture Discussion&amp;quot; to terminal&lt;/li&gt;
+&lt;li&gt;Flattened terrain slightly outside power armor garage doors&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Remote Cabin v19 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/new-website-oct-2017" />
