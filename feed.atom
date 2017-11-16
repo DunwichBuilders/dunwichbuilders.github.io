@@ -4,9 +4,28 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2017</rights>
-	<updated>2017-11-12T09:28:36Z</updated>
+	<updated>2017-11-16T08:08:50Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-021" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/remote-cabin-021</id>
+		<title>Remote Cabin v21</title>
+		<updated>2017-11-16T00:00:00Z</updated>
+		<content>&lt;p&gt;Remote Cabin v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Bobrov's Best Moonshine recipe (requires visiting Diamond City first)&lt;/li&gt;
+&lt;li&gt;Adjusted height on Coffee Stand umbrella&lt;/li&gt;
+&lt;li&gt;Adjusted height on Builder's Note spawn&lt;/li&gt;
+&lt;li&gt;Added Minutemen, Brotherhood of Steel and Railroad &amp;quot;trophies&amp;quot;&lt;/li&gt;
+&lt;li&gt;Converted Institute trophy to &amp;quot;IsJoined&amp;quot;&lt;/li&gt;
+&lt;li&gt;Moved trophy Activators to cover entire cabin porch&lt;/li&gt;
+&lt;li&gt;Slight revision of story holotape&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Remote Cabin v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-020" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
