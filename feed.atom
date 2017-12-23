@@ -4,9 +4,42 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2017</rights>
-	<updated>2017-12-14T06:21:11Z</updated>
+	<updated>2017-12-23T10:54:35Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-023" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/remote-cabin-023</id>
+		<title>Remote Cabin v23</title>
+		<updated>2017-12-23T00:00:00Z</updated>
+		<content>&lt;p&gt;Remote Cabin v23 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Renamed Atomic Warhead to Dirty Warhead&lt;/li&gt;
+&lt;li&gt;Added Ice Cold Rum and Nuka-Cola&lt;/li&gt;
+&lt;li&gt;Added Gin&lt;/li&gt;
+&lt;li&gt;Renamed Cocktails to Hooch&lt;/li&gt;
+&lt;li&gt;Renamed Speakeasy to Top Shelf&lt;/li&gt;
+&lt;li&gt;Renamed Poisoned Wine to Grimwine&lt;/li&gt;
+&lt;li&gt;Added Caffeination effect to drinks that use Nuka-Cola&lt;/li&gt;
+&lt;li&gt;Tweaked a few recipes for current drinks&lt;/li&gt;
+&lt;li&gt;Moved Nightcrawler to Hooch tier&lt;/li&gt;
+&lt;li&gt;Increased proc chance on Spiked Lurknog to 25%&lt;/li&gt;
+&lt;li&gt;Moved Dirty Warhead to Top Shelf&lt;/li&gt;
+&lt;li&gt;Added Blueprints workbench to garage&lt;/li&gt;
+&lt;li&gt;Adjusted AO markers&lt;/li&gt;
+&lt;li&gt;Added AO markers to garage&lt;/li&gt;
+&lt;li&gt;Fixed up garage lights&lt;/li&gt;
+&lt;li&gt;Moved Christmas tree to Port-A-Diner area&lt;/li&gt;
+&lt;li&gt;Moved some build items from Experimental to Furniture&lt;/li&gt;
+&lt;li&gt;Added light switches to garage&lt;/li&gt;
+&lt;li&gt;Removed and consolidated a few lights&lt;/li&gt;
+&lt;li&gt;Added happiness to cat and dog mats&lt;/li&gt;
+&lt;li&gt;Adjusted happiness on other mats&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Remote Cabin v23 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-004" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
