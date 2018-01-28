@@ -4,9 +4,22 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2018</rights>
-	<updated>2018-01-22T01:54:03Z</updated>
+	<updated>2018-01-28T23:00:02Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-006" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-006</id>
+		<title>Dunwich Farms v6</title>
+		<updated>2018-01-28T00:00:00Z</updated>
+		<content>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Atom Cats, Brotherhood, Bunker Hill, Diamond City, Dunwich Farms, Goodneighbor, Institute, Libertalia, Minutemen, Railroad and Remote Cabin lighters&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		<summary>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-005" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
