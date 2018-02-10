@@ -5,8 +5,24 @@
 		<link>http://dunwichbuilders.github.io/</link>
 		<description>DUNWICH BUILDERS</description>
 		<copyright>2018</copyright>
-		<pubDate>Sun, 04 Feb 2018 22:57:33 GMT</pubDate>
-		<lastBuildDate>Sun, 04 Feb 2018 22:57:33 GMT</lastBuildDate>
+		<pubDate>Sat, 10 Feb 2018 11:50:43 GMT</pubDate>
+		<lastBuildDate>Sat, 10 Feb 2018 11:50:43 GMT</lastBuildDate>
+		<item>
+			<title>Dunwich Farms v8</title>
+			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-008</link>
+			<description>&lt;p&gt;Dunwich Farms v8 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.github.io/posts/dunwich-farms-008</guid>
+			<pubDate>Sat, 10 Feb 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Dunwich Farms v8 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed burn effects on Purple Haze and Turbo Killer&lt;/li&gt;
+&lt;li&gt;Fixed changelog&lt;/li&gt;
+&lt;li&gt;Fixed Survival Mode scaling issue&lt;/li&gt;
+&lt;li&gt;Tweaked some numbers on a few other effects&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Dunwich Farms v7</title>
 			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-007</link>
