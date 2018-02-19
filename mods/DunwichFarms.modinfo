@@ -1,0 +1,13 @@
+{
+	"Categories" : 
+	[
+		"Crafting",
+		"Foliage",
+		"Homes",
+		"Settlements",
+		"Work-In-Progress",
+		"Workshop"
+	],
+	"Description" : "Dunwich Farms is an experimental farming settlement on the border of the Glowing Sea and Lake Cochituate.\r\n\r\nSpecial thanks for Serpentine90210 for doing most of the work designing the consumables!\r\n\r\nStatus:\r\n\r\n+ Work-in-Progress\r\n+ Building components cheat box\r\n+ Spawn settler button\r\n+ Experimental Farming system\r\n+ Experimental Smoking system\r\n+ Experimental Blueprints system\r\n+ New consumables\r\n+ New equipables\r\n+ New buildables\r\n+ New addictions\r\n\r\nGoals:\r\n\r\n+ Mess around with the settlement farming system\r\n+ \"Container\" settlement to hold farming experiments\r\n+ Support PS4\r\n\r\nFeatures:\r\n\r\n+ Locked door puzzle to assist with workbench ownership\r\n+ Custom craftable farming stuff\r\n+ Bunker to sleep in storms\r\n\r\nNote that Dunwich Builders has not evaluated other agricultural mods but this one does edit your \"Workbench food array\" and the lowest order wins there so depending on what food you want to show up in your Workbench, that mod needs to load last. If another mod overwrites this mod's Workbench food array, the Flora from this mod should still grow and be pickable by the player, and might count as food for Workshop purposes (untested), but will not generate resources in the Workbench because that array is hardcoded in the editor and cannot be shared between mods without scripting.\r\n",
+	"Title" : "Dunwich Farms [PS4]"
+}
