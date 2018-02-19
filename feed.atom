@@ -4,7 +4,7 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2018</rights>
-	<updated>2018-02-19T04:25:21Z</updated>
+	<updated>2018-02-19T10:43:14Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
 	<entry>
@@ -13,13 +13,15 @@
 		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-009</id>
 		<title>Dunwich Farms v9</title>
 		<updated>2018-02-18T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v9 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+		<content>&lt;p&gt;Dunwich Farms v9 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-01-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Removed QA scrap container from bunker&lt;/li&gt;
 &lt;li&gt;Added recipes to constructible objects&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Dunwich Farms v9 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Dunwich Farms v9 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-008" />
@@ -27,15 +29,30 @@
 		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-008</id>
 		<title>Dunwich Farms v8</title>
 		<updated>2018-02-10T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v8 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+		<content>&lt;p&gt;Dunwich Farms v8 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-02-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fixed burn effects on Purple Haze and Turbo Killer&lt;/li&gt;
 &lt;li&gt;Fixed changelog&lt;/li&gt;
 &lt;li&gt;Fixed Survival Mode scaling issue&lt;/li&gt;
 &lt;li&gt;Tweaked some numbers on a few other effects&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Dunwich Farms v8 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Dunwich Farms v8 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-review-norespawns" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/remote-cabin-review-norespawns</id>
+		<title>Remote Cabin Mod Review by Norespawns</title>
+		<updated>2018-02-07T00:00:00Z</updated>
+		<content>&lt;p&gt;Friend of the community and settlement building senpai &lt;a href="https://twitter.com/norespawns"&gt;Norespawns&lt;/a&gt; has made a very fine &lt;a href="https://www.youtube.com/watch?v=3Dg-bXm1V_M"&gt;video&lt;/a&gt; about &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;Remote Cabin&lt;/a&gt;!&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3Dg-bXm1V_M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Be sure to stop by his &lt;a href="https://www.youtube.com/user/norespawns1"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
+&lt;p&gt;Thanks for watching!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Friend of the community and settlement building senpai &lt;a href="https://twitter.com/norespawns"&gt;Norespawns&lt;/a&gt; has made a very fine &lt;a href="https://www.youtube.com/watch?v=3Dg-bXm1V_M"&gt;video&lt;/a&gt; about &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;Remote Cabin&lt;/a&gt;!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-007" />
@@ -43,7 +60,8 @@
 		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-007</id>
 		<title>Dunwich Farms v7</title>
 		<updated>2018-02-04T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v7 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+		<content>&lt;p&gt;Dunwich Farms v7 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-03-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Changed Painkillers to be MaxHP based instead of Damage-over-Time&lt;/li&gt;
 &lt;li&gt;Adjusted Frenzy effect on Bad Mothafucka&lt;/li&gt;
@@ -51,8 +69,9 @@
 &lt;li&gt;Lighters can only be crafted one time now as they're unique&lt;/li&gt;
 &lt;li&gt;Moved Fusion Core drain effect to Major Good Vibes&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Dunwich Farms v7 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Dunwich Farms v7 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-006" />
@@ -60,12 +79,14 @@
 		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-006</id>
 		<title>Dunwich Farms v6</title>
 		<updated>2018-01-28T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+		<content>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-04-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Added Atom Cats, Brotherhood, Bunker Hill, Diamond City, Dunwich Farms, Goodneighbor, Institute, Libertalia, Minutemen, Railroad and Remote Cabin lighters&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-005" />
@@ -73,7 +94,8 @@
 		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-005</id>
 		<title>Dunwich Farms v5</title>
 		<updated>2018-01-21T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v5 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+		<content>&lt;p&gt;Dunwich Farms v5 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-05-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Added smoking, jet, needle and additional worship mats&lt;/li&gt;
 &lt;li&gt;Added lectern worship idle furniture&lt;/li&gt;
@@ -87,8 +109,9 @@
 &lt;li&gt;Added Green Jewel Chew, Snuffout and Yaogaui Dark chaw&lt;/li&gt;
 &lt;li&gt;Added Barnacle Scramble food&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Dunwich Farms v5 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Dunwich Farms v5 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-023" />
@@ -97,6 +120,7 @@
 		<title>Remote Cabin v23</title>
 		<updated>2017-12-23T00:00:00Z</updated>
 		<content>&lt;p&gt;Remote Cabin v23 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/RemoteCabin-01-thumb.png" class="img-fluid" alt="Remote Cabin Screenshot" title="Remote Cabin Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Renamed Atomic Warhead to Dirty Warhead&lt;/li&gt;
 &lt;li&gt;Added Ice Cold Rum and Nuka-Cola&lt;/li&gt;
@@ -150,6 +174,7 @@
 		<title>Remote Cabin v22</title>
 		<updated>2017-12-04T00:00:00Z</updated>
 		<content>&lt;p&gt;Remote Cabin v22 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/RemoteCabin-02-thumb.png" class="img-fluid" alt="Remote Cabin Screenshot" title="Remote Cabin Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Replaced destructible crates in power armor garage with statics&lt;/li&gt;
 &lt;li&gt;Added Holiday drinks&lt;/li&gt;
@@ -200,6 +225,7 @@
 		<title>Remote Cabin v21</title>
 		<updated>2017-11-16T00:00:00Z</updated>
 		<content>&lt;p&gt;Remote Cabin v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/RemoteCabin-03-thumb.png" class="img-fluid" alt="Remote Cabin Screenshot" title="Remote Cabin Screenshot" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Added Bobrov's Best Moonshine recipe (requires visiting Diamond City first)&lt;/li&gt;
 &lt;li&gt;Adjusted height on Coffee Stand umbrella&lt;/li&gt;
