@@ -4,9 +4,29 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2018</rights>
-	<updated>2018-02-19T10:54:01Z</updated>
+	<updated>2018-02-22T07:38:20Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-010" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-010</id>
+		<title>Dunwich Farms v10</title>
+		<updated>2018-02-21T00:00:00Z</updated>
+		<content>&lt;p&gt;Dunwich Farms v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-05-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed wood on Grinning Brahmin box&lt;/li&gt;
+&lt;li&gt;Blunt and cigar recipes now craft the proper amount&lt;/li&gt;
+&lt;li&gt;Fixed MaxHP effect&lt;/li&gt;
+&lt;li&gt;Adjusted values on Strongleaf&lt;/li&gt;
+&lt;li&gt;Added description text to all Painkillers&lt;/li&gt;
+&lt;li&gt;Added recipes to Lighters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Dunwich Farms v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-009" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
