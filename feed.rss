@@ -5,8 +5,29 @@
 		<link>http://dunwichbuilders.github.io/</link>
 		<description>DUNWICH BUILDERS</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 23 Feb 2018 04:48:42 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Feb 2018 04:48:42 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Feb 2018 08:59:29 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Feb 2018 08:59:29 GMT</lastBuildDate>
+		<item>
+			<title>Dunwich Farms v12</title>
+			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-012</link>
+			<description>&lt;p&gt;Dunwich Farms v12 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.github.io/posts/dunwich-farms-012</guid>
+			<pubDate>Sat, 24 Feb 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Dunwich Farms v12 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-02-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed extraneous craft items&lt;/li&gt;
+&lt;li&gt;Converted bunker pillar to new static&lt;/li&gt;
+&lt;li&gt;Removed rogue floor item&lt;/li&gt;
+&lt;li&gt;Added crashed vertibird&lt;/li&gt;
+&lt;li&gt;Added art icon to Strongleaf&lt;/li&gt;
+&lt;li&gt;Added Strongleaf to workbench food array&lt;/li&gt;
+&lt;li&gt;Fixed issue where Barnacle Meat and Glowing Sea Blossoms were spawning incorrect items in workbench&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Dunwich Farms v11</title>
 			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-011</link>
@@ -366,19 +387,6 @@
 &lt;li&gt;Cleaned up navmesh a bit around central rocks&lt;/li&gt;
 &lt;li&gt;Relinked and finalized navmesh for entire settlement&lt;/li&gt;
 &lt;li&gt;Removed Fernweed&lt;/li&gt;
-&lt;/ul&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Dunwich Farms v1</title>
-			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-001</link>
-			<description>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</description>
-			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
-			<guid>http://dunwichbuilders.github.io/posts/dunwich-farms-001</guid>
-			<pubDate>Mon, 16 Oct 2017 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;Dunwich Farms v1 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;First version&lt;/li&gt;
 &lt;/ul&gt;
 </content:encoded>
 		</item>
