@@ -4,9 +4,25 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2018</rights>
-	<updated>2018-05-21T03:23:57Z</updated>
+	<updated>2018-05-31T06:14:16Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-013" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-013</id>
+		<title>Dunwich Farms v13</title>
+		<updated>2018-05-30T00:00:00Z</updated>
+		<content>&lt;p&gt;Dunwich Farms v13 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-06-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a vendor that sells flora and other craft items&lt;/li&gt;
+&lt;li&gt;Added a shack for the vendor to live in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Dunwich Farms v13 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-heights-001" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
@@ -345,22 +361,5 @@
 &lt;/ul&gt;
 </content>
 		<summary>&lt;p&gt;Remote Cabin v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-020" />
-		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
-		<id>http://dunwichbuilders.github.io/posts/remote-cabin-020</id>
-		<title>Remote Cabin v20</title>
-		<updated>2017-11-12T00:00:00Z</updated>
-		<content>&lt;p&gt;Remote Cabin v20 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Added note next to front door&lt;/li&gt;
-&lt;li&gt;Added collision planes to prevent Workbench access before zoning&lt;/li&gt;
-&lt;li&gt;Removed &amp;quot;What's New&amp;quot; and note about version 15&lt;/li&gt;
-&lt;li&gt;Adjusted Chem Storage and Halloween activators&lt;/li&gt;
-&lt;li&gt;Added some dust and sand decals&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-		<summary>&lt;p&gt;Remote Cabin v20 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 </feed>
