@@ -5,8 +5,24 @@
 		<link>http://dunwichbuilders.github.io/</link>
 		<description>DUNWICH BUILDERS</description>
 		<copyright>2018</copyright>
-		<pubDate>Thu, 31 May 2018 06:14:16 GMT</pubDate>
-		<lastBuildDate>Thu, 31 May 2018 06:14:16 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Jun 2018 02:58:38 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Jun 2018 02:58:38 GMT</lastBuildDate>
+		<item>
+			<title>Dunwich Farms v14</title>
+			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-014</link>
+			<description>&lt;p&gt;Dunwich Farms v14 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.github.io/posts/dunwich-farms-014</guid>
+			<pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Dunwich Farms v14 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichFarms-07-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added new farming animations for planters&lt;/li&gt;
+&lt;li&gt;Added new farming animations for wild flora that are slightly offset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Dunwich Farms v13</title>
 			<link>http://dunwichbuilders.github.io/posts/dunwich-farms-013</link>
@@ -339,26 +355,6 @@
 &lt;li&gt;Added bunker&lt;/li&gt;
 &lt;li&gt;Changed Barnacle Meat mesh to &amp;quot;canned meat&amp;quot;&lt;/li&gt;
 &lt;li&gt;Replaced Perfectly Preserved Truck with tractor and reactor and other farming and reactor related items&lt;/li&gt;
-&lt;/ul&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Remote Cabin v21</title>
-			<link>http://dunwichbuilders.github.io/posts/remote-cabin-021</link>
-			<description>&lt;p&gt;Remote Cabin v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</description>
-			<enclosure url="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" length="0" type="image" />
-			<guid>http://dunwichbuilders.github.io/posts/remote-cabin-021</guid>
-			<pubDate>Thu, 16 Nov 2017 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;Remote Cabin v21 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/RemoteCabin-03-thumb.png" class="img-fluid" alt="Remote Cabin Screenshot" title="Remote Cabin Screenshot" /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Added Bobrov's Best Moonshine recipe (requires visiting Diamond City first)&lt;/li&gt;
-&lt;li&gt;Adjusted height on Coffee Stand umbrella&lt;/li&gt;
-&lt;li&gt;Adjusted height on Builder's Note spawn&lt;/li&gt;
-&lt;li&gt;Added Minutemen, Brotherhood of Steel and Railroad &amp;quot;trophies&amp;quot;&lt;/li&gt;
-&lt;li&gt;Converted Institute trophy to &amp;quot;IsJoined&amp;quot;&lt;/li&gt;
-&lt;li&gt;Moved trophy Activators to cover entire cabin porch&lt;/li&gt;
-&lt;li&gt;Slight revision of story holotape&lt;/li&gt;
 &lt;/ul&gt;
 </content:encoded>
 		</item>
