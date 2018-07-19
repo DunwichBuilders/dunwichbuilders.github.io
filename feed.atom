@@ -4,9 +4,23 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2018</rights>
-	<updated>2018-06-14T02:58:38Z</updated>
+	<updated>2018-07-19T06:32:22Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/vaultvii-01" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/vaultvii-01</id>
+		<title>Vault VII Beta</title>
+		<updated>2018-07-18T00:00:00Z</updated>
+		<content>&lt;p&gt;&lt;a href="https://twitter.com/cordlessvii"&gt;CordlessVII&lt;/a&gt; has released the first beta of Vault VII! Currently available for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4072994"&gt;Xbox One&lt;/a&gt; and &lt;a href="https://www.nexusmods.com/fallout4/mods/33273"&gt;PC&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Lw6mi7JaFHU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Stop by Cord's &lt;a href="https://www.youtube.com/channel/UCT3HhEbDNA_UvCY6xJMe_hw"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/Vault-VII-03-thumb.png" class="img-fluid" alt="Vault VII Screenshot" title="VaultVII Screenshot" /&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;&lt;a href="https://twitter.com/cordlessvii"&gt;CordlessVII&lt;/a&gt; has released the first beta of Vault VII! Currently available for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4072994"&gt;Xbox One&lt;/a&gt; and &lt;a href="https://www.nexusmods.com/fallout4/mods/33273"&gt;PC&lt;/a&gt;.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-014" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
@@ -342,20 +356,5 @@
 &lt;/ul&gt;
 </content>
 		<summary>&lt;p&gt;Dunwich Farms v3 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-002" />
-		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
-		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-002</id>
-		<title>Dunwich Farms v2</title>
-		<updated>2017-12-01T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v2 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Added bunker&lt;/li&gt;
-&lt;li&gt;Changed Barnacle Meat mesh to &amp;quot;canned meat&amp;quot;&lt;/li&gt;
-&lt;li&gt;Replaced Perfectly Preserved Truck with tractor and reactor and other farming and reactor related items&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-		<summary>&lt;p&gt;Dunwich Farms v2 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PS4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 </feed>
