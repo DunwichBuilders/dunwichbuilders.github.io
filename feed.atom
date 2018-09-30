@@ -4,9 +4,22 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2018</rights>
-	<updated>2018-08-24T05:03:09Z</updated>
+	<updated>2018-09-30T18:36:50Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/videos-victor-borisov-001" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/videos-victor-borisov-001</id>
+		<title>Dunwich Builders Legends Video by Victor Borisov</title>
+		<updated>2018-09-23T00:00:00Z</updated>
+		<content>&lt;p&gt;Friend of the community and fellow time traveller &lt;a href="https://twitter.com/_VictorBorisov"&gt;Victor Borisov&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=x1zajbKH3Nc"&gt;video&lt;/a&gt; of &lt;a href="dunwich-builders-legends.html"&gt;Dunwich Builders Legends&lt;/a&gt;!&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/x1zajbKH3Nc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Be sure to stop by his &lt;a href="https://www.youtube.com/channel/UCgZb0UbeDh8UYzcjl7bSFPg"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
+&lt;p&gt;Thanks for watching!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Friend of the community and fellow time traveller &lt;a href="https://twitter.com/_VictorBorisov"&gt;Victor Borisov&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=x1zajbKH3Nc"&gt;video&lt;/a&gt; of &lt;a href="dunwich-builders-legends.html"&gt;Dunwich Builders Legends&lt;/a&gt;!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-heights-002" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
@@ -30,18 +43,17 @@
 		<summary>&lt;p&gt;Dunwich Heights v2 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4066227"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="http://dunwichbuilders.github.io/posts/streams-sentinel-002" />
+		<link href="http://dunwichbuilders.github.io/posts/videos-sentinel-002" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
-		<id>http://dunwichbuilders.github.io/posts/streams-sentinel-002</id>
-		<title>Dunwich Builders Legends Stream by Senti nel</title>
+		<id>http://dunwichbuilders.github.io/posts/videos-sentinel-002</id>
+		<title>Dunwich Builders Legends Video by Senti nel</title>
 		<updated>2018-08-18T00:00:00Z</updated>
-		<content>&lt;p&gt;&lt;img src="/images/DunwichBuildersLegends-04-thumb.png" class="img-fluid" alt="Dunwich Builders Legends" title="Dunwich Builders Legends Screenshot" /&gt;&lt;/p&gt;
-&lt;p&gt;Friend of the community &lt;a href="https://www.youtube.com/channel/UCSm33ltmBTvVrwLu0mNG1FA"&gt;Senti nel&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=RlxuLR2ZyjU"&gt;stream&lt;/a&gt; of Dunwich Builders Legends!&lt;/p&gt;
+		<content>&lt;p&gt;Friend of the community &lt;a href="https://twitter.com/oh_kerry"&gt;Senti nel&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=RlxuLR2ZyjU"&gt;video&lt;/a&gt; of Dunwich Builders Legends!&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RlxuLR2ZyjU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Be sure to stop by her &lt;a href="https://www.youtube.com/channel/UCSm33ltmBTvVrwLu0mNG1FA"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
 &lt;p&gt;Thanks for watching!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;&lt;img src="/images/DunwichBuildersLegends-04-thumb.png" class="img-fluid" alt="Dunwich Builders Legends" title="Dunwich Builders Legends Screenshot"&gt;&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Friend of the community &lt;a href="https://twitter.com/oh_kerry"&gt;Senti nel&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=RlxuLR2ZyjU"&gt;video&lt;/a&gt; of Dunwich Builders Legends!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-builders-legends-001" />
@@ -152,12 +164,12 @@
 		<summary>&lt;p&gt;Pillar of the community and YouTube personality &lt;a href="https://twitter.com/amberfrmthvault"&gt;AmberFrmThVault&lt;/a&gt; has taken some time out of her busy schedule to post a &lt;a href="https://www.youtube.com/watch?v=Bb4-iFYOl80"&gt;video&lt;/a&gt; about &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;Remote Cabin&lt;/a&gt;!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="http://dunwichbuilders.github.io/posts/streams-sentinel-001" />
+		<link href="http://dunwichbuilders.github.io/posts/videos-sentinel-001" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
-		<id>http://dunwichbuilders.github.io/posts/streams-sentinel-001</id>
-		<title>Remote Cabin and Dunwich Farms Streams by Senti nel</title>
+		<id>http://dunwichbuilders.github.io/posts/videos-sentinel-001</id>
+		<title>Remote Cabin and Dunwich Farms Videos by Senti nel</title>
 		<updated>2018-03-03T00:00:00Z</updated>
-		<content>&lt;p&gt;Friend of the community &lt;a href="https://www.youtube.com/channel/UCSm33ltmBTvVrwLu0mNG1FA"&gt;Senti nel&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=VFC5Tj-Kmis&amp;amp;list=PLWYBeOJ5m2x4HskerRYzACyiuRPK_hGTT&amp;amp;index=1"&gt;playlist&lt;/a&gt; of videos featuring Dunwich Builders mods!&lt;/p&gt;
+		<content>&lt;p&gt;Friend of the community &lt;a href="https://twitter.com/oh_kerry"&gt;Senti nel&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=VFC5Tj-Kmis&amp;amp;list=PLWYBeOJ5m2x4HskerRYzACyiuRPK_hGTT&amp;amp;index=1"&gt;playlist&lt;/a&gt; of videos featuring Dunwich Builders mods!&lt;/p&gt;
 &lt;p&gt;Remote Cabin&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VFC5Tj-Kmis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Dunwich Farms&lt;/p&gt;
@@ -167,7 +179,7 @@
 &lt;p&gt;Be sure to stop by her &lt;a href="https://www.youtube.com/channel/UCSm33ltmBTvVrwLu0mNG1FA"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
 &lt;p&gt;Thanks for watching!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Friend of the community &lt;a href="https://www.youtube.com/channel/UCSm33ltmBTvVrwLu0mNG1FA"&gt;Senti nel&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=VFC5Tj-Kmis&amp;amp;list=PLWYBeOJ5m2x4HskerRYzACyiuRPK_hGTT&amp;amp;index=1"&gt;playlist&lt;/a&gt; of videos featuring Dunwich Builders mods!&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Friend of the community &lt;a href="https://twitter.com/oh_kerry"&gt;Senti nel&lt;/a&gt; has posted a &lt;a href="https://www.youtube.com/watch?v=VFC5Tj-Kmis&amp;amp;list=PLWYBeOJ5m2x4HskerRYzACyiuRPK_hGTT&amp;amp;index=1"&gt;playlist&lt;/a&gt; of videos featuring Dunwich Builders mods!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-012" />
@@ -306,30 +318,5 @@
 &lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-005" />
-		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
-		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-005</id>
-		<title>Dunwich Farms v5</title>
-		<updated>2018-01-21T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v5 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/DunwichFarms-05-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Added smoking, jet, needle and additional worship mats&lt;/li&gt;
-&lt;li&gt;Added lectern worship idle furniture&lt;/li&gt;
-&lt;li&gt;Added lectern scavenging station&lt;/li&gt;
-&lt;li&gt;Added furniture and workstation blueprints&lt;/li&gt;
-&lt;li&gt;Added blueprints workbench&lt;/li&gt;
-&lt;li&gt;Added Gorilla Panic, Grinning Brahmin and Purple Haze blunts&lt;/li&gt;
-&lt;li&gt;Added Bad Mothafucka, Nuclear Wintergreen and Rad Apple cigarettes&lt;/li&gt;
-&lt;li&gt;Added Budz Buddy Slims, El Duderino, Major Good Vibes and Three Dog Special joints&lt;/li&gt;
-&lt;li&gt;Added Blisstex, Fukitol, Turbo Killer and Wild Berry Numb-Numbs painkillers&lt;/li&gt;
-&lt;li&gt;Added Green Jewel Chew, Snuffout and Yaogaui Dark chaw&lt;/li&gt;
-&lt;li&gt;Added Barnacle Scramble food&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thanks for downloading!&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Dunwich Farms v5 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 </feed>
