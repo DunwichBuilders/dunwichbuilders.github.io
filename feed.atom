@@ -3,10 +3,36 @@
 	<link rel="self" href="http://dunwichbuilders.github.io/" />
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
-	<rights>2018</rights>
-	<updated>2018-09-30T18:36:50Z</updated>
+	<rights>2019</rights>
+	<updated>2019-02-20T07:35:32Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/dunwich-heights-003" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/dunwich-heights-003</id>
+		<title>Dunwich Heights v3</title>
+		<updated>2019-02-19T00:00:00Z</updated>
+		<content>&lt;p&gt;Dunwich Heights v2 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4066227"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/DunwichHeights-03-thumb.png" class="img-fluid" alt="Dunwich Heights Screenshot" title="Dunwich Heights Screenshot" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed Coffee and Smoking Activators because they were showing up as a water source in Survival mode&lt;/li&gt;
+&lt;li&gt;Added Standpipes that work as water fountains&lt;/li&gt;
+&lt;li&gt;Added Dunwich Utility&lt;/li&gt;
+&lt;li&gt;Converted Dunwich Residence into Dunwich Motors&lt;/li&gt;
+&lt;li&gt;Added a few Brahmin Milk and Coffee Bean Flora items around the town&lt;/li&gt;
+&lt;li&gt;Updated Dulce's living space&lt;/li&gt;
+&lt;li&gt;Split Donald's from Dulce's living space&lt;/li&gt;
+&lt;li&gt;Added Adalia's Residence&lt;/li&gt;
+&lt;li&gt;Added PerkStations&lt;/li&gt;
+&lt;li&gt;Moved Atom's Garage next to Red Rocket Quick Stop&lt;/li&gt;
+&lt;li&gt;Added Above Anna's door&lt;/li&gt;
+&lt;li&gt;Added Hotline Telephones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Dunwich Heights v2 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4066227"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/videos-victor-borisov-001" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
@@ -303,20 +329,5 @@
 &lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Dunwich Farms v7 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-006" />
-		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
-		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-006</id>
-		<title>Dunwich Farms v6</title>
-		<updated>2018-01-28T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/DunwichFarms-04-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Added Atom Cats, Brotherhood, Bunker Hill, Diamond City, Dunwich Farms, Goodneighbor, Institute, Libertalia, Minutemen, Railroad and Remote Cabin lighters&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thanks for downloading!&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Dunwich Farms v6 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 </feed>
