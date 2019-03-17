@@ -4,9 +4,28 @@
 	<id>http://dunwichbuilders.github.io/</id>
 	<title>Dunwich Builders</title>
 	<rights>2019</rights>
-	<updated>2019-02-20T07:35:32Z</updated>
+	<updated>2019-03-17T00:38:06Z</updated>
 	<logo>http://dunwichbuilders.github.io/images/Masthead-Web.jpg</logo>
 	<subtitle>DUNWICH BUILDERS</subtitle>
+	<entry>
+		<link href="http://dunwichbuilders.github.io/posts/remote-cabin-024" />
+		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
+		<id>http://dunwichbuilders.github.io/posts/remote-cabin-024</id>
+		<title>Remote Cabin v24</title>
+		<updated>2019-03-16T00:00:00Z</updated>
+		<content>&lt;p&gt;Remote Cabin v24 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/RemoteCabin-04-thumb.png" class="img-fluid" alt="Remote Cabin Screenshot" title="Remote Cabin Screenshot" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Ice Cold Nuka-Cola Machine&lt;/li&gt;
+&lt;li&gt;Converted Smoking and Coffee activators to use different scripts&lt;/li&gt;
+&lt;li&gt;Added Quiet Reflection perk to The Deep&lt;/li&gt;
+&lt;li&gt;Added Remote Cabin Bunker&lt;/li&gt;
+&lt;li&gt;Added Stereo as a Radio tuned to Diamond City Radio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for downloading!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Remote Cabin v24 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://dunwichbuilders.github.io/posts/dunwich-heights-003" />
 		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
@@ -310,24 +329,5 @@
 &lt;p&gt;Thanks for watching!&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Friend of the community and settlement building senpai &lt;a href="https://twitter.com/norespawns"&gt;Norespawns&lt;/a&gt; has made a very fine &lt;a href="https://www.youtube.com/watch?v=3Dg-bXm1V_M"&gt;video&lt;/a&gt; about &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;Remote Cabin&lt;/a&gt;!&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://dunwichbuilders.github.io/posts/dunwich-farms-007" />
-		<link rel="enclosure" type="image" href="http://dunwichbuilders.github.io/images/Masthead-Web.jpg" />
-		<id>http://dunwichbuilders.github.io/posts/dunwich-farms-007</id>
-		<title>Dunwich Farms v7</title>
-		<updated>2018-02-04T00:00:00Z</updated>
-		<content>&lt;p&gt;Dunwich Farms v7 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/DunwichFarms-03-thumb.png" class="img-fluid" alt="Dunwich Farms Screenshot" title="Dunwich Farms Screenshot" /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Changed Painkillers to be MaxHP based instead of Damage-over-Time&lt;/li&gt;
-&lt;li&gt;Adjusted Frenzy effect on Bad Mothafucka&lt;/li&gt;
-&lt;li&gt;Moved Lighters into Lighter Gift Boxes and their Perk is now applied when box is opened&lt;/li&gt;
-&lt;li&gt;Lighters can only be crafted one time now as they're unique&lt;/li&gt;
-&lt;li&gt;Moved Fusion Core drain effect to Major Good Vibes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thanks for downloading!&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Dunwich Farms v7 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4038911"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</summary>
 	</entry>
 </feed>
