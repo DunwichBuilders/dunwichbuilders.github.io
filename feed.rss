@@ -4,9 +4,59 @@
 		<title>Dunwich Builders</title>
 		<link>http://dunwichbuilders.com/</link>
 		<description>DUNWICH BUILDERS</description>
-		<copyright>2023</copyright>
-		<pubDate>Sat, 20 May 2023 05:24:02 GMT</pubDate>
-		<lastBuildDate>Sat, 20 May 2023 05:24:02 GMT</lastBuildDate>
+		<copyright>2025</copyright>
+		<pubDate>Thu, 06 Nov 2025 03:20:01 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Nov 2025 03:20:01 GMT</lastBuildDate>
+		<item>
+			<title>Cordova Playground v4 PlayStation/Xbox/PC</title>
+			<link>http://dunwichbuilders.com/posts/cordova-playground-004.html</link>
+			<description>&lt;p&gt;Cordova Playground v4 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4142585"&gt;PlayStation&lt;/a&gt;, &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4142586"&gt;Xbox&lt;/a&gt; and &lt;a href="https://mods.bethesda.net/en/fallout4/mod-detail/4375826"&gt;PC&lt;/a&gt; is now available!&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.com/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.com/posts/cordova-playground-004.html</guid>
+			<pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Cordova Playground v4 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4142585"&gt;PlayStation&lt;/a&gt;, &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4142586"&gt;Xbox&lt;/a&gt; and &lt;a href="https://mods.bethesda.net/en/fallout4/mod-detail/4375826"&gt;PC&lt;/a&gt; is now available!&lt;/p&gt;
+&lt;p&gt;And introducing... the first release on &lt;a href="https://www.nexusmods.com/fallout4/mods/97900"&gt;Nexus&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/CordovaPlayground-04-thumb.png" class="img-fluid" alt="Cordova Playground Screenshot" title="Cordova Playground Screenshot" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First release for PC&lt;/li&gt;
+&lt;li&gt;Added even more Havok disable scripts to Misc Items&lt;/li&gt;
+&lt;li&gt;Converted most base-game statics to mod statics to prevent mod conflicts&lt;/li&gt;
+&lt;li&gt;Reverted deleted NavMesh and recycled the ID for one of the mod NavMeshes&lt;/li&gt;
+&lt;li&gt;Fixed blade on some of the Radium Gimlet mods&lt;/li&gt;
+&lt;li&gt;Added Fallguard Ring&lt;/li&gt;
+&lt;li&gt;Added Strange Alloy&lt;/li&gt;
+&lt;li&gt;Strange Alloy is now used in the higher tier mods for Radium Gimlet and Fallguard Ring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for downloading and stay dangerous!&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Vault VII</title>
+			<link>http://dunwichbuilders.com/posts/vaultvii-02.html</link>
+			<description>&lt;p&gt;Vault VII is finally done! &lt;a href="https://twitter.com/cordlessvii"&gt;CordlessVII&lt;/a&gt; has released the final build! Currently available for &lt;a href="https://mods.bethesda.net/en/fallout4/mod-detail/4375453"&gt;Xbox&lt;/a&gt; and &lt;a href="https://mods.bethesda.net/en/fallout4/mod-detail/4375455"&gt;PC&lt;/a&gt; from Bethesda, and &lt;a href="https://www.nexusmods.com/fallout4/mods/97572"&gt;Nexus&lt;/a&gt;.&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.com/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.com/posts/vaultvii-02.html</guid>
+			<pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Vault VII is finally done! &lt;a href="https://twitter.com/cordlessvii"&gt;CordlessVII&lt;/a&gt; has released the final build! Currently available for &lt;a href="https://mods.bethesda.net/en/fallout4/mod-detail/4375453"&gt;Xbox&lt;/a&gt; and &lt;a href="https://mods.bethesda.net/en/fallout4/mod-detail/4375455"&gt;PC&lt;/a&gt; from Bethesda, and &lt;a href="https://www.nexusmods.com/fallout4/mods/97572"&gt;Nexus&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kRrPV8IFqmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Stop by Cord's &lt;a href="https://www.youtube.com/&amp;#64;CordlessVII"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/Vault-VII-04-thumb.png" class="img-fluid" alt="Vault VII Screenshot" title="VaultVII Screenshot" /&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for downloading and stay dangerous!&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>New Cordova Playground Build Video From Not a Lizard</title>
+			<link>http://dunwichbuilders.com/posts/videos-cordova-playground-004.html</link>
+			<description>&lt;p&gt;Citizen &lt;a href="https://www.youtube.com/@notalizard589"&gt;Not a Lizard&lt;/a&gt; posted a video of their build in Cordova Playground's useful build area.&lt;/p&gt;</description>
+			<enclosure url="http://dunwichbuilders.com/images/Masthead-Web.jpg" length="0" type="image" />
+			<guid>http://dunwichbuilders.com/posts/videos-cordova-playground-004.html</guid>
+			<pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Citizen &lt;a href="https://www.youtube.com/&amp;#64;notalizard589"&gt;Not a Lizard&lt;/a&gt; posted a video of their build in Cordova Playground's useful build area.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0_NQpkuq7y4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Be sure to stop by their &lt;a href="https://www.youtube.com/&amp;#64;notalizard589"&gt;YouTube&lt;/a&gt; channel and say hello.&lt;/p&gt;
+&lt;p&gt;Thanks for watching and stay dangerous!&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Cordova Playground Featured on Bethesda.net</title>
 			<link>http://dunwichbuilders.com/posts/featured-cordova-playground-001.html</link>
@@ -243,19 +293,6 @@
 </content:encoded>
 		</item>
 		<item>
-			<title>HowitzerCo Video by KottabosGames</title>
-			<link>http://dunwichbuilders.com/posts/videos-howitzerco-001.html</link>
-			<description>&lt;p&gt;Friend of the community &lt;a href="https://www.youtube.com/@KottabosGames"&gt;KottabosGames&lt;/a&gt; posted a &lt;a href="https://www.youtube.com/watch?v=8KBkcmNRsJw"&gt;video&lt;/a&gt; about &lt;a href="/tags/HowitzerCo.html"&gt;HowitzerCo&lt;/a&gt;!&lt;/p&gt;</description>
-			<enclosure url="http://dunwichbuilders.com/images/Masthead-Web.jpg" length="0" type="image" />
-			<guid>http://dunwichbuilders.com/posts/videos-howitzerco-001.html</guid>
-			<pubDate>Thu, 08 Aug 2019 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;Friend of the community &lt;a href="https://www.youtube.com/&amp;#64;KottabosGames"&gt;KottabosGames&lt;/a&gt; posted a &lt;a href="https://www.youtube.com/watch?v=8KBkcmNRsJw"&gt;video&lt;/a&gt; about &lt;a href="/tags/HowitzerCo.html"&gt;HowitzerCo&lt;/a&gt;!&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8KBkcmNRsJw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Be sure to stop by their &lt;a href="https://www.youtube.com/&amp;#64;KottabosGames"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
-&lt;p&gt;Thanks for watching!&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
 			<title>HowitzerCo Video by theDeluxeSam</title>
 			<link>http://dunwichbuilders.com/posts/videos-howitzerco-002.html</link>
 			<description>&lt;p&gt;Friend of the community &lt;a href="https://www.youtube.com/@theDeluxeSam007"&gt;theDeluxeSam&lt;/a&gt; posted a &lt;a href="https://www.youtube.com/watch?v=ASbbCxff3FI"&gt;video&lt;/a&gt; about &lt;a href="/tags/HowitzerCo.html"&gt;HowitzerCo&lt;/a&gt;!&lt;/p&gt;</description>
@@ -267,40 +304,6 @@
 &lt;p&gt;(Note that the floating teddy bear is in the base game.)&lt;/p&gt;
 &lt;p&gt;Be sure to stop by their &lt;a href="https://www.youtube.com/&amp;#64;theDeluxeSam007"&gt;YouTube&lt;/a&gt; channel and say hello!&lt;/p&gt;
 &lt;p&gt;Thanks for watching!&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>HowitzerCo v1 PC</title>
-			<link>http://dunwichbuilders.com/posts/howitzerco-001-pc.html</link>
-			<description>&lt;p&gt;HowitzerCo v1 for &lt;a href="https://www.nexusmods.com/fallout4/mods/40495"&gt;Windows PC&lt;/a&gt; is now available!&lt;/p&gt;</description>
-			<enclosure url="http://dunwichbuilders.com/images/Masthead-Web.jpg" length="0" type="image" />
-			<guid>http://dunwichbuilders.com/posts/howitzerco-001-pc.html</guid>
-			<pubDate>Tue, 06 Aug 2019 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;HowitzerCo v1 for &lt;a href="https://www.nexusmods.com/fallout4/mods/40495"&gt;Windows PC&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/HowitzerCo-01-thumb.png" class="img-fluid" alt="HowitzerCo Screenshot" title="HowitzerCo Screenshot" /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;First version&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thanks for downloading!&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Remote Cabin v24</title>
-			<link>http://dunwichbuilders.com/posts/remote-cabin-024.html</link>
-			<description>&lt;p&gt;Remote Cabin v24 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;</description>
-			<enclosure url="http://dunwichbuilders.com/images/Masthead-Web.jpg" length="0" type="image" />
-			<guid>http://dunwichbuilders.com/posts/remote-cabin-024.html</guid>
-			<pubDate>Sat, 16 Mar 2019 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;Remote Cabin v24 for &lt;a href="https://bethesda.net/en/mods/fallout4/mod-detail/4032196"&gt;PlayStation 4&lt;/a&gt; is now available!&lt;/p&gt;
-&lt;p&gt;&lt;img src="/images/RemoteCabin-04-thumb.png" class="img-fluid" alt="Remote Cabin Screenshot" title="Remote Cabin Screenshot" /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Added Ice Cold Nuka-Cola Machine&lt;/li&gt;
-&lt;li&gt;Converted Smoking and Coffee activators to use different scripts&lt;/li&gt;
-&lt;li&gt;Added Quiet Reflection perk to The Deep&lt;/li&gt;
-&lt;li&gt;Added Remote Cabin Bunker&lt;/li&gt;
-&lt;li&gt;Added Stereo as a Radio tuned to Diamond City Radio&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thanks for downloading!&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>
